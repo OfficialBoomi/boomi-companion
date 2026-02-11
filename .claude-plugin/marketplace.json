@@ -1,0 +1,19 @@
+{
+  "name": "boomi-marketplace",
+  "owner": {
+    "name": "Boomi"
+  },
+  "metadata": {
+    "description": "Boomi development tools for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "boomi-core",
+      "description": "Boomi development tools: skills, commands, and agents for building integrations",
+      "source": {
+        "source": "url",
+        "url": "git@bitbucket.org:officialboomi/boomi-core.git"
+      }
+    }
+  ]
+}
