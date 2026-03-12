@@ -12,7 +12,7 @@
       "description": "Boomi development tools: skills, commands, and agents for building integrations",
       "source": {
         "source": "url",
-        "url": "git@bitbucket.org:officialboomi/bc-integration.git"
+        "url": "git@github.com:OfficialBoomi/bc-integration.git"
       }
     }
   ]
