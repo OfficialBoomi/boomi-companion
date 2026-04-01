@@ -19,3 +19,6 @@ In Claude Code, use the `/plugin` command to add this marketplace:
 ```
 
 This registers the marketplace so Claude Code can discover all available Boomi plugins. The marketplace can also be managed through the VS Code extension by typing `/plugins` in the prompt box and selecting the **Marketplaces** tab.  After registering the markplace, you will be able to browse available plugins and install them.
+
+## Feedback & Issues
+Found a bug or have a feature idea? Email solutions@boomi.com with a clear description, steps to reproduce, and any relevant error messages.
