@@ -1,4 +1,4 @@
-# Boomi Marketplace
+# Boomi Companion
 
 A [Claude Code plugin](https://www.anthropic.com/news/claude-code-plugins) marketplace for discovering and installing Boomi development tools. This repository serves as the official registry of plugins built for the Boomi platform.
 
