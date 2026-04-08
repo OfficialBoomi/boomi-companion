@@ -13,6 +13,13 @@
       "source": {
         "source": "url",
         "url": "https://github.com/OfficialBoomi/bc-integration.git"
+      },
+      {
+      "name": "bc-marketplace",
+      "description": "Boomi Companion: Interact with the Boomi Marketplace",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/OfficialBoomi/bc-marketplace.git"
       }
     }
   ]
