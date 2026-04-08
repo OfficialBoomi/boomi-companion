@@ -7,6 +7,7 @@ A [Claude Code plugin](https://www.anthropic.com/news/claude-code-plugins) marke
 | Plugin | Description |
 |--------|-------------|
 | [bc-integration](https://github.com/OfficialBoomi/bc-integration) | Skills, commands, and agents for building Boomi integrations |
+| [bc-marketplace](https://gitbub.com/OfficialBoomi/bc-marketplace) | Skill for searching and installing Boomi Marketplace recipes |
 
 ## Installation
 
