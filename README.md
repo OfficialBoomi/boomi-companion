@@ -35,5 +35,9 @@ The following underlying skills are also available as standalone packages for us
 | [boomi-integration](https://github.com/OfficialBoomi/boomi-integration) | Skill for building Boomi integrations |
 | [boomi-marketplace](https://github.com/OfficialBoomi/boomi-marketplace) | Skill for searching and installing Boomi Marketplace recipes |
 
+## Documentation
+
+For a full overview of Boomi Companion, including concepts, usage guidance, and additional resources, see the [Boomi Companion overview](https://developer.boomi.com/docs/BoomiCompanion/Boomi_companion_overview) on the Boomi Developer Portal.
+
 ## Feedback & Issues
 Found a bug or have a feature idea? Email developer-offerings@boomi.com with a clear description, steps to reproduce, and any relevant error messages.
