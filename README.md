@@ -11,10 +11,11 @@ This project is licensed under the BSD-2-Clause License. If you fork or modify t
 | Plugin | Description |
 |--------|-------------|
 | [bc-integration](https://github.com/OfficialBoomi/bc-integration) | Skills, commands, and agents for building Boomi integrations |
-| [bc-marketplace](https://github.com/OfficialBoomi/bc-marketplace) | Skill for searching and installing Boomi Marketplace recipes |
+| [bc-marketplace](https://github.com/OfficialBoomi/bc-marketplace) | Skills for searching and installing Boomi Marketplace recipes |
 | [bc-datahub](https://github.com/OfficialBoomi/bc-datahub) | Skills to operate Boomi Data Hub |
 | [bc-bdi](https://github.com/OfficialBoomi/bc-bdi) | Skills to operate Boomi Data Integration (formerly Rivery) |
 | [bc-agentstudio](https://github.com/OfficialBoomi/bc-agentstudio) | Skills to operate Boomi Agentstudio |
+| [bc-connectordev](https://github.com/OfficialBoomi/bc-connectordev) | Create and manage your Boomi custom connectors |
 
 ## Installation
 
@@ -40,6 +41,7 @@ The following underlying skills are also available as standalone packages for us
 | [boomi-datahub](https://github.com/OfficialBoomi/boomi-datahub) | Skill for operating Boomi Data Hub |
 | [boomi-bdi](https://github.com/OfficialBoomi/boomi-bdi) | Skill for operating Boomi Data Integration (formerly Rivery)|
 | [boomi-agentstudio](https://github.com/OfficialBoomi/boomi-agentstudio) | Skill for operating Boomi Agentstudio |
+| [boomi-connectordev](https://github.com/OfficialBoomi/boomi-connectordev) | Create and manage your Boomi custom connectors |
 
 ## Documentation
 
