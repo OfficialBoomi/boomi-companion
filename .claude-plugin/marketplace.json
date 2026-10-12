@@ -46,6 +46,14 @@
         "source": "url",
         "url": "https://github.com/OfficialBoomi/bc-agentstudio.git"
       }
+    },
+   {
+      "name": "bc-connectordev",
+      "description": "Create and manage your Boomi custom connectors",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/OfficialBoomi/bc-connectordev.git"
+      }
     }
   ]
 }
