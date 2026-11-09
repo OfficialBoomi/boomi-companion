@@ -16,6 +16,7 @@ This project is licensed under the BSD-2-Clause License. If you fork or modify t
 | [bc-bdi](https://github.com/OfficialBoomi/bc-bdi) | Skills to operate Boomi Data Integration (formerly Rivery) |
 | [bc-agentstudio](https://github.com/OfficialBoomi/bc-agentstudio) | Skills to operate Boomi Agentstudio |
 | [bc-connectordev](https://github.com/OfficialBoomi/bc-connectordev) | Create and manage your Boomi custom connectors |
+| [bc-apim](https://github.com/OfficialBoomi/bc-apim) | Skills for Boomi API management |
 
 ## Installation
 
@@ -42,6 +43,10 @@ The following underlying skills are also available as standalone packages for us
 | [boomi-bdi](https://github.com/OfficialBoomi/boomi-bdi) | Skill for operating Boomi Data Integration (formerly Rivery)|
 | [boomi-agentstudio](https://github.com/OfficialBoomi/boomi-agentstudio) | Skill for operating Boomi Agentstudio |
 | [boomi-connectordev](https://github.com/OfficialBoomi/boomi-connectordev) | Create and manage your Boomi custom connectors |
+| [boomi-api-gateway](https://github.com/OfficialBoomi/boomi-api-gateway) | Skill for managing Boomi API Gateway |
+| [boomi-api-control-plane](https://github.com/OfficialBoomi/boomi-api-control-plane) | Skill for managing Boomi API Control Plane |
+| [boomi-cloud-api-management](https://github.com/OfficialBoomi/boomi-cloud-api-management) | Skill for managing Boomi Cloud API Management |
+
 
 ## Documentation
 
