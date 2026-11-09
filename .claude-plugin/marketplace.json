@@ -4,7 +4,7 @@
     "name": "Boomi"
   },
   "metadata": {
-    "description": "Boomi development tools for Claude Code"
+    "description": "Boomi development tools for your AI Agents"
   },
   "plugins": [
     {
@@ -23,7 +23,7 @@
         "url": "https://github.com/OfficialBoomi/bc-marketplace.git"
       }
     },
-   {
+    {
       "name": "bc-datahub",
       "description": "Skills to operate Boomi Data Hub",
       "source": {
@@ -31,7 +31,7 @@
         "url": "https://github.com/OfficialBoomi/bc-datahub.git"
       }
     },
-   {
+    {
       "name": "bc-bdi",
       "description": "Skills to operate Boomi Data Integration (formerly Rivery)",
       "source": {
@@ -39,7 +39,7 @@
         "url": "https://github.com/OfficialBoomi/bc-bdi.git"
       }
     },
-   {
+    {
       "name": "bc-agentstudio",
       "description": "Skills to operate Boomi Agenstudio",
       "source": {
@@ -47,12 +47,20 @@
         "url": "https://github.com/OfficialBoomi/bc-agentstudio.git"
       }
     },
-   {
+    {
       "name": "bc-connectordev",
       "description": "Create and manage your Boomi custom connectors",
       "source": {
         "source": "url",
         "url": "https://github.com/OfficialBoomi/bc-connectordev.git"
+      }
+    },
+    {
+      "name": "bc-apim",
+      "description": "Skills for Boomi API management",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/OfficialBoomi/bc-apim.git"
       }
     }
   ]
